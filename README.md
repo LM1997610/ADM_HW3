@@ -6,7 +6,6 @@ Work done and compiled by **Group 29** made up of the following members:
 - Luca Mazzucco : 1997610 
 - Maria Vittoria Vestini : 1795724
 
-<br>
 The main content is in a Jupyter Notebook file named [**main.ipynb**](https://github.com/MaviVestini/ADM_HW3/blob/main/HW3_final.ipynb) which shows our results for the proposed questions.\
 The code comments explain the steps and approach to building different versions of the **Search Engine**.\
 The BONUS question was not answered.
