@@ -31,4 +31,4 @@ this file contains a dictionary that maps each word in the corpus of documents t
 - **norms.pkl** file that contains a dictionary that contains the norms, computed with the TF-IDFs, of all the documents
 
 # MAP
-GitHub doesn't display the plot, so to view the map from point 4 we saved the file as **fig.html** and it can be seen [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/MaviVestini/ADM_HW3/main/fig.html) 
+GitHub doesn't display our **map** of point 4, so it can be seen [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/MaviVestini/ADM_HW3/main/fig.html) 
