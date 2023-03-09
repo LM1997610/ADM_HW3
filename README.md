@@ -18,7 +18,5 @@ The BONUS question was not answered.
 
 - **CommandLine.sh** is the bash shell script file for the **CommandLine Question**.
 
-- RankingList.txt text file that contains resuts for the **Theoretical Question**
-
 ## **NOTE :**
 GitHub doesn't display interactive **maps** for point 4, suggested to have a look [here](https://nbviewer.org/github/LM1997610/ADM_HW3/blob/main/HW_3.ipynb) instead
