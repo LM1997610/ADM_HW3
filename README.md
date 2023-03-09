@@ -14,7 +14,7 @@ The BONUS question was not answered.
 
 - **engine.py** 
 
-- **AlgorithmicQ & CommandLine.ipynb** → shows results for Algorithmic Question and Command Line
+- **AlgorithmicQ_CommandLine.ipynb** → shows results for Algorithmic Question and Command Line
 
 - **CommandLine.sh** is the bash shell script file for the **CommandLine Question**.
 
