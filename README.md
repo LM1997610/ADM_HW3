@@ -7,7 +7,7 @@ Work done and compiled by **Group 29** made up of the following members:
 - Maria Vittoria Vestini : 1795724
 
 The main content is a Jupyter Notebook file named [**HW_5.ipynb**](https://nbviewer.org/github/LM1997610/ADM_HW3/blob/main/HW_3.ipynb) which shows our results for the proposed questions.\
-The code comments explain the steps and approach to building different versions of the **Search Engine**.\
+The code comments explain the steps and approach to building different versions of a **Search Engine**.\
 The BONUS question was not answered.
 
 ### Other contents:
@@ -16,9 +16,9 @@ The BONUS question was not answered.
 
 - **AlgorithmicQ & CommandLine.ipynb** → shows results for Algorithmic Question and Command Line
 
-- **CommandLine.sh** is the bash shell script file for the **CommandLine question**.
+- **CommandLine.sh** is the bash shell script file for the **CommandLine Question**.
 
-- RankingList.txt text file that contains resuts for the **Theoretical question**
+- RankingList.txt text file that contains resuts for the **Theoretical Question**
 
 ## **NOTE :**
 GitHub doesn't display interactive **maps** for point 4, suggested to have a look [here](https://nbviewer.org/github/LM1997610/ADM_HW3/blob/main/HW_3.ipynb) instead
