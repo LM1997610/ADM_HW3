@@ -12,7 +12,8 @@ The BONUS question was not answered.
 
 ### Other contents:
 
-- **engine.py** → Heart of the search engine, it contains a class with needed functions for text preprocessing and retrieval results from inverted index.
+- **engine.py** →  **Heart** of the search engine.\
+It contains a ^^class^^ that includes necessary functions for **text preprocessing** and **retrieving results** from **inverted indexes**.
 
 - **AlgorithmicQ_CommandLine.ipynb** → shows results for Algorithmic Question and Command Line
 
