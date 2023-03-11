@@ -9,12 +9,13 @@ Work done and compiled by **Group 29** made up of the following members:
 The main content is a Jupyter Notebook file named [**HW_3.ipynb**](https://nbviewer.org/github/LM1997610/ADM_HW3/blob/main/HW_3.ipynb) which shows our results for the proposed questions.\
 The code comments explain the steps and approach to develop three different types of **Search Engines**:
 
-- **Boolean Search Engine** : The first search engine included is a basic one that allows users to perform boolean queries.\
-&emsp;&emsp;&emsp; It relies on simple text matching to identify relevant results
+- **Boolean Search Engine** : The first included is a basic search engine that allows users to perform boolean queries. It relies on simple text matching to identify relevant results
  
 - **TF-IDF Search Engine** : The second uses the tf-idf algorithm to rank the relevance of search results.\
-&emsp;&emsp;&emsp; It takes into account both the frequency of the search term in the document and the inverse document frequency,\
-&emsp;&emsp;&emsp; which is a measure of how common the search term is across the entire corpus of documents.
+&emsp; It takes into account both the frequency of the search term in the document and the inverse document frequency,\
+&emsp; which is a measure of how common the search term is across the entire corpus of documents.
+
+- **Location-Based Search Engine** : The third search engine is designed to integrate boolean queries with the user's location to provide location-based results.
 
 The BONUS question was not answered.
 
