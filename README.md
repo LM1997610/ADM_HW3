@@ -8,7 +8,7 @@ Work done and compiled by **Group 29** made up of the following members:
 
 
 The main content is a Jupyter Notebook file named [**HW_3.ipynb**](https://nbviewer.org/github/LM1997610/ADM_HW3/blob/main/HW_3.ipynb) which shows our results for the proposed questions.\
-The code comments explain the steps and approach to develop three different types of **Search Engines**:
+It explains and comments steps and approach to develop three different types of **Search Engines**:
 
 - **Boolean Search Engine** : The first included is a basic search engine that allows users to perform boolean queries. It relies on simple text matching to identify relevant results
  
