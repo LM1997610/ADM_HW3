@@ -12,11 +12,11 @@ The BONUS question was not answered.
 
 ### Other contents:
 
-- **engine.py** 
+- **engine.py** → Heart of the search engine, it contains a class with needed functions for text preprocessing and retrieval results from inverted index.
 
 - **AlgorithmicQ_CommandLine.ipynb** → shows results for Algorithmic Question and Command Line
 
-- **CommandLine.sh** is the bash shell script file for the **CommandLine Question**.
+- **CommandLine.sh** → is the bash shell script file for the **CommandLine Question**.
 
 ## **NOTE :**
 GitHub doesn't display interactive **maps** for task number 4, suggested to have a look [here](https://nbviewer.org/github/LM1997610/ADM_HW3/blob/main/HW_3.ipynb) instead
