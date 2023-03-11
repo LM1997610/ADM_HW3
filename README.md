@@ -7,13 +7,20 @@ Work done and compiled by **Group 29** made up of the following members:
 - Maria Vittoria Vestini : 1795724
 
 The main content is a Jupyter Notebook file named [**HW_3.ipynb**](https://nbviewer.org/github/LM1997610/ADM_HW3/blob/main/HW_3.ipynb) which shows our results for the proposed questions.\
-The code comments explain the steps and approach to building different versions of a **Search Engine**.\
+The code comments explain the steps and approach to develop three different types of **Search Engines**:
+
+- **Boolean Search Engine** : The first search engine included is a basic one that allows users to perform boolean queries.\ 
+&emsp; It relies on simple text matching to identify relevant results
+ 
+- **TF-IDF Search Engine** : The second uses the tf-idf algorithm to rank the relevance of search results.\
+&emsp; It takes into account both the frequency of the search term in the document and the inverse document frequency, which is a measure of how common the search term is across the entire corpus of documents.
+
 The BONUS question was not answered.
 
 ### Other contents:
 
 - **engine.py** →  **Heart** of the search engine:\
-&ensp; It contains a `class` that includes needed functions for **text preprocessing**\
+&ensp; It contains a `class` that includes needed functions for **text preprocessing** and\
 &ensp;  and **results retrieving** from **inverted indexes**.
 
 - **AlgorithmicQ_CommandLine.ipynb** → shows results for Algorithmic Question and Command Line
