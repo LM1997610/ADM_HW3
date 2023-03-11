@@ -3,8 +3,9 @@
 Github repository to submit [**ADM**](http://aris.me/index.php/data-mining-ds-2022)'s **HomeWork 3** - **[Places of the world](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_3)**.<br>
 
 Work done and compiled by **Group 29** made up of the following members:
-- Luca Mazzucco : 1997610 
 - Maria Vittoria Vestini : 1795724
+- Luca Mazzucco : 1997610 
+
 
 The main content is a Jupyter Notebook file named [**HW_3.ipynb**](https://nbviewer.org/github/LM1997610/ADM_HW3/blob/main/HW_3.ipynb) which shows our results for the proposed questions.\
 The code comments explain the steps and approach to develop three different types of **Search Engines**:
