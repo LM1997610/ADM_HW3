@@ -10,10 +10,11 @@ The main content is a Jupyter Notebook file named [**HW_3.ipynb**](https://nbvie
 The code comments explain the steps and approach to develop three different types of **Search Engines**:
 
 - **Boolean Search Engine** : The first search engine included is a basic one that allows users to perform boolean queries.\
-&emsp; It relies on simple text matching to identify relevant results
+&emsp;&emsp;&emsp; It relies on simple text matching to identify relevant results
  
 - **TF-IDF Search Engine** : The second uses the tf-idf algorithm to rank the relevance of search results.\
-&emsp; It takes into account both the frequency of the search term in the document and the inverse document frequency, which is a measure of how common the search term is across the entire corpus of documents.
+&emsp;&emsp;&emsp; It takes into account both the frequency of the search term in the document and the inverse document frequency,\
+&emsp;&emsp;&emsp; which is a measure of how common the search term is across the entire corpus of documents.
 
 The BONUS question was not answered.
 
