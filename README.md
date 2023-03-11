@@ -12,9 +12,9 @@ The BONUS question was not answered.
 
 ### Other contents:
 
-- **engine.py** →  **Heart** of the search engine.\
-&ensp; It contains a `class` that includes needed functions for **text preprocessing** and\
-&ensp; **results retrieving** from **inverted indexes**.
+- **engine.py** →  **Heart** of the search engine:\
+&ensp; It contains a `class` that includes needed functions for **text preprocessing**\
+&ensp;  and **results retrieving** from **inverted indexes**.
 
 - **AlgorithmicQ_CommandLine.ipynb** → shows results for Algorithmic Question and Command Line
 
