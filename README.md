@@ -12,7 +12,7 @@ The code comments explain the steps and approach to develop three different type
 - **Boolean Search Engine** : The first included is a basic search engine that allows users to perform boolean queries. It relies on simple text matching to identify relevant results
  
 - **TF-IDF Search Engine** : The second uses the tf-idf algorithm to rank the relevance of search results.\
-&emsp; It takes into account both the frequency of the search term in the document and the inverse document frequency,\
+It takes into account both the frequency of the search term in the document and the inverse document frequency,\
 &emsp; which is a measure of how common the search term is across the entire corpus of documents.
 
 - **Location-Based Search Engine** : The third search engine is designed to integrate boolean queries with the user's location to provide location-based results.
